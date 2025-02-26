@@ -62,4 +62,3 @@ http://localhost:8888/lab/tree/softmax_exercise.ipynb
 ```
 
 JupyterLab should now be running, and you’ll be able to create, edit, and execute **`softmax_exercise.ipynb`**.
-```
